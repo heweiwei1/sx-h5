@@ -13,10 +13,7 @@ export default {
   },
   created() {
     this.getData()
-<<<<<<< Updated upstream
     console.log(`news1111111111`, this.news)
-=======
->>>>>>> Stashed changes
   },
   methods: {
     gotoMenu() {
